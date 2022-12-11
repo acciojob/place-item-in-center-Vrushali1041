@@ -1,5 +1,6 @@
 .holder{   
-   position: relative;  
+   position: relative;
+   display: flex;  
 }
 .holder>div{
     background-color: blueviolet;
