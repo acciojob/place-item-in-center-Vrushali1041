@@ -1,2 +1,13 @@
-
+.holder{   
+   position: relative;  
+}
+.holder>div{
+    background-color: blueviolet;
+    font-size: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+   
+}
 /* Your CSS Code here. */
