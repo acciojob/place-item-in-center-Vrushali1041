@@ -1,16 +1,17 @@
 .holder{   
-   position: relative;
+   /* position: relative; */
    display: flex;  
    justify-content: center;
+  
 }
 .holder>div{
     background-color: blueviolet;
     font-size: 50px;
-    /* margin-left: 600px;
+    margin-left: 600px;
     margin-right: 600px;
     margin-top: 300px;
-    margin-bottom: 300px; */
-    /* justify-content: center; */
+    margin-bottom: 300px;
+    
    
 }
 /* Your CSS Code here. */
